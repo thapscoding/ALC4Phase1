@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_text">Welcome to Alc 4.0</string>
+    <string name="first_button_text">About alc</string>
+    <string name="second_button_text">My profile</string>
+    <string name="my_photo">My photo</string>
+    <string name="my_name">Thapelo Rantho</string>
+    <string name="my_track">Track: Android</string>
+    <string name="my_country">Country: South Africa</string>
+    <string name="my_phone_number">Phone Number: +27739899121</string>
+    <string name="my_email_address">Email: thapelo.elsi@gmail.com</string>
+    <string name="slack_user_name">Slack User Name: @The Vision</string>
+    </resources>
