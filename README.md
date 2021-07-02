@@ -14,5 +14,7 @@ Minimum Api level:API 27 android 8.1 oreo.
 
 
 
-![ggggg](https://user-images.githubusercontent.com/39503627/124306324-889bef80-db66-11eb-9b74-db70d1b90be8.jpg)
+![1](https://user-images.githubusercontent.com/39503627/124307336-fc8ac780-db67-11eb-978c-8fcc7ada4ea9.png)
+![2](https://user-images.githubusercontent.com/39503627/124307339-fdbbf480-db67-11eb-8e5d-11175367fc70.png)
+![3](https://user-images.githubusercontent.com/39503627/124307343-fe548b00-db67-11eb-91aa-056ed2562195.png)
 
