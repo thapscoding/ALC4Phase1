@@ -1,4 +1,4 @@
-A multiscreeen app which informs the user about Andela and my profile as a student.
+
 
 
 ![1-350x480](https://user-images.githubusercontent.com/39503627/124309021-6ad08980-db6a-11eb-907a-395a8e6181ab.png)
