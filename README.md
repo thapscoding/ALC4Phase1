@@ -1,8 +1,9 @@
-![1-350x480](https://user-images.githubusercontent.com/39503627/124309021-6ad08980-db6a-11eb-907a-395a8e6181ab.png)
-![1-480x600](https://user-images.githubusercontent.com/39503627/124308757-057c9880-db6a-11eb-8662-612b8dd1e02e.png)
 Alc challenge 1.0.
 A multiscreeen app which informs the user about Andela and my profile as a student.
 Minimum Api level:API 27 android 8.1 oreo.
+![1-350x480](https://user-images.githubusercontent.com/39503627/124309021-6ad08980-db6a-11eb-907a-395a8e6181ab.png)![3-350x480](https://user-images.githubusercontent.com/39503627/124309444-03670980-db6b-11eb-8029-3ceab2c00b67.png)
+![24-350x480](https://user-images.githubusercontent.com/39503627/124309450-0530cd00-db6b-11eb-84fe-21c56b5b7eff.jpg)
+
 
 
 
