@@ -8,14 +8,18 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 public class AboutALC extends AppCompatActivity {
+    //Declare your variable
     WebView myWebView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about_alc);
+        //Find view by ID Linked to XML
         myWebView = findViewById(R.id.load_alc_page);
+        //Load the URL
         myWebView.loadUrl("https://andela.com/alc/");
+        // call the setWebViewClient on myWebView
         myWebView.setWebViewClient(new WebViewClient() {
             @Override
             public void onReceivedSslError(final WebView view, final SslErrorHandler handler, final SslError error) {
