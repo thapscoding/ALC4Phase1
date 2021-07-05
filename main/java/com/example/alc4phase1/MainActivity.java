@@ -11,13 +11,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
+// On Click
     public void buttonOneClicked(View view) {
+        //Open Activity
         startActivity(new Intent(MainActivity.this, AboutALC.class));
 
     }
-
+// On Click
     public void buttonTwoClicked(View view) {
+          //Open Activity
         startActivity(new Intent(MainActivity.this, MyProfile.class));
     }
 }
